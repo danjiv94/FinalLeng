@@ -4,7 +4,7 @@
 
 
     <groupId>org.drools.workshop</groupId>
-    <artifactId>drools-rest-swarm</artifactId>
+    <artifactId>FinalLeng</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Drools Workshop :: REST Wildfly Swarm Example</name>
@@ -21,7 +21,7 @@
 	<module>drools-shopping-services</module>
         <module>drools-cep-services</module>
     </modules>
-  
+
     <repositories>
         <repository>
             <id>jboss-public-repository-group</id>
@@ -29,5 +29,5 @@
             <url>https://repository.jboss.org/nexus/content/groups/public/</url>
         </repository>
     </repositories>
-    
+
 </project>
